@@ -1,0 +1,36 @@
+{
+	"close":true,
+	"resourcePlugin":
+	{
+		"configs":[
+		{
+			"configPath":"resource/default.res.json",
+			"relativePath":"resource/"
+		}],
+		"id":"org.egret-labs.resource",
+		"library":
+		{
+			"children":[
+			{
+				"isFolder":false,
+				"key":"hero-01",
+				"name":"hero-01"
+			},
+			{
+				"isFolder":false,
+				"key":"hero-02",
+				"name":"hero-02"
+			},
+			{
+				"isFolder":false,
+				"key":"hero-03",
+				"name":"hero-03"
+			},
+			{
+				"isFolder":false,
+				"key":"hero-04",
+				"name":"hero-04"
+			}]
+		}
+	}
+}

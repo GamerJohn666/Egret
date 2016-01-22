@@ -1,0 +1,15 @@
+{
+	"resources": [
+		{ "name":"hero-01","type":"image","url":"assets/hero-01.png"},
+		{ "name":"hero-02","type":"image","url":"assets/hero-02.png"},
+		{ "name":"hero-03","type":"image","url":"assets/hero-03.png"},
+		{ "name":"hero-04","type":"image","url":"assets/hero-04.png"}
+		
+	],
+	"groups": [
+		{
+			"name": "heros",
+			"keys": "hero-01,hero-02,hero-03,hero-04"
+		}
+	]
+}
