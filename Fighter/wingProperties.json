@@ -10,7 +10,17 @@
 		"id":"",
 		"library":
 		{
-			"children":[]
+			"children":[
+			{
+				"isFolder":false,
+				"key":"resource/assets/bg.jpg",
+				"name":"bg.jpg"
+			},
+			{
+				"isFolder":false,
+				"key":"resource/assets/boss.png",
+				"name":"boss.png"
+			}]
 		}
 	}
 }

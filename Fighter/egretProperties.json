@@ -11,6 +11,15 @@
   "modules": [
     {
       "name": "egret"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "res"
     }
   ]
 }
